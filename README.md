@@ -31,3 +31,6 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and make progress more quickly. Use a task management tool, such as Trello or Asana, to keep track of your task list and prioritize them accordingly. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or working through a complex problem, take the time to plan your approach and outline the steps you will take to solve it. Creating a detailed plan will ensure you don't waste time on unnecessary tasks and can help guide you through the process more smoothly. You can use tools like Microsoft Project or Google' s Todoist to help with planning.  
 3. Stay organized: As you work on projects, maintaining an organized workspace and codebase is vital for efficiency and clarity. Organize your files, projects and libraries in a logical manner, using version control systems like Git to track changes and coordinate team efforts. Additionally, keep your code clean and well-documented, making it easy to understand and maintain in the future.
+
+# 2023-11-23
+- "Keep it simple, stupid!"
