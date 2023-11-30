@@ -52,3 +52,6 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- "Keep it simple, stupid!"
