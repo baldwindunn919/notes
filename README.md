@@ -58,3 +58,6 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you can become a valuable asset to any team and adapt to the ever-changing world of technology. Remember to focus on solving real-world problems and always keep the user in mind when designing and developing software. Finally, don't be afraid to ask for help or share your expertise with others, because collaboration and knowledge sharing are essential for success in the worldof programming.
