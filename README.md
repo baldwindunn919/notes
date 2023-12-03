@@ -61,3 +61,17 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 
 # 2023-12-02
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you can become a valuable asset to any team and adapt to the ever-changing world of technology. Remember to focus on solving real-world problems and always keep the user in mind when designing and developing software. Finally, don't be afraid to ask for help or share your expertise with others, because collaboration and knowledge sharing are essential for success in the worldof programming.
+
+# 2023-12-03
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. List your tasks: Start by creating a list of all the tasks you need to complete.This will give you a clear picture of what you have to do and help to organize your thoughts.
+2. Prioritize: Once you've listed your task, prioritize them based on their importance and urgency. By giving higher priority to tasks that need immediate attention, you can ensure that they are completed on time. 
+3. Break down large tasks into smaller ones: If you find that a task is too large to manage, break it down into a series of smaller tasks.By breaking it up into more manageable pieces, it will be easier to stay focused and make progress.  
+4. Use tools to your advantage: Utilize the tools and resources available to you, such as task management apps, calendars, or project planning software. These tools can help keep you organized and on track with your goals.   
+5. Set deadlines: For each task on your list, set a deadline by which you want to have it completed. Using deadlines can keep your focus and motivate you throughout the day.    
+6. Stay organized: Keep your workspace clean and organized to reduce stress and confusion. As you complete tasks throughout your day, update your lists and move them to the appropriate section, ensuring that you stay on task.     
+7. Take breaks: While it' s important to remain focused, don't forget to take breaks throughoutyour workday. Taking short breaks can improve your productivity and mental clarity.      
+8. Communicate with teammates: Collaborating with others can make your job easier and more enjoyable. Keep in touch with colleagues and share ideas, tasks and progress to ensure a smooth and efficient workflow.       
+9. Learn from your mistakes: As a programmer, making mistakes is a natural part of the learning process. Don' t be afraid to make mistakes, but learn from them and improve for the future.        
+ 10. Continuously learn and grow: The programming world is constantly changing, so stay up-to-date with new technologies and techniques. Dedicate time to learning and growing your skillset to become a more valuable asset toyour team and organization.
