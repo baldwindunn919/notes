@@ -78,3 +78,17 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 
 # 2023-12-04
 - Today's programming wisdom is to prioritize readability and maintainability in your code. Write code that is easy to understand and modify, not just for yourself but for others who may need to work with it in the future. Use clear and concise variable names, comments, and documentation to make your code more accessible. Remember that coding is a collaborative effort, and writing code that is easy to read and maintain will save time and headaches for everyone involved.
+
+# 2023-12-05
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help improve your programming skills:
+
+1. Set goals: Determine what you want to achieve in the short and long term.This will give you a clear direction and help stay focused.
+2. Break down tasks: Divide larger projects into smaller, manageable tasks. By doing this, you can focus on one task at a time, making it easier to complete them. 
+3. Prioritize: Decide which tasks are most important and prioritize them accordingly. You can use a task management tool, such as Trello or Asana, to keep track of your tasks and ensure that you are working on the right things.  
+4. Plan your schedule: Allocate time for each task and stick to it. Using a scheduling tool like Google Calendar or Todoist can help to ensure you stay on track.   
+5. Stay organized: Keep your code, project files, documentation,and research organized and easy to find. Use version control, like Git,to track your changes and collaborate with others.    
+6. Learn from others: Read blogs, watch tutorials, attend workshops, or join online communities to learn new skills and best practices. Sharing your knowledge withothers can also help grow your understanding.     
+7. Keep learning: Technology is constantly evolving, so it'sa good idea to stay up-to-date with the latest developments and tools. Dedicate time each week to learning new techniques and technologies.      
+8. Practice: Programming is a skill that improves with practice. Try to dedicate time every day to practice coding, whether it’s through small projects or personal challenges.       
+9. Don't be afraid to ask for help: If you're stuck on a problem or need advice, don'tworry about asking for assistance. There are many resources and communities available tohelp you, including Stack Overflow, GitHub,or your local coding meetup group.        
+By following these tips and staying dedicated to your learning and growth,you will become a more skilled and effective programmer.
