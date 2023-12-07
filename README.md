@@ -103,3 +103,8 @@ By following these tips and staying dedicated to your learning and growth,you wi
 5. Learn to say "no" to additional tasks if you already have a full plate. It'll help prevent burnout and maintain focus on your current tasks 6. Stay organized by keeping your code, files, folders, etc. neatly structured and labeled.    
 7. Document your coding processes and decisions so others can understand and learn from your workflow.     
 8. Continuously learn and improve your programming skills by reading articles, attending workshops, watching tutorials, talking to peers, mentors, 9. And most importantly, practice regularly and consistently.
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potential bugs. It's better to write clear and simple code first, then optimize only when necessary, based on profiling and measurement.
