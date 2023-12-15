@@ -135,3 +135,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-14
 - "Keep it simple, stupid!"
+
+# 2023-12-15
+- Today's programming wisdom is to write code that is easy to read and understand, not just by yourself but also by others who may need to work with it in the future. This means using clear and descriptive variable names, commenting your code effectively, and following established best practices and conventions for the language or framework you are working in. Remember that code is read far more often than it is written, so taking the time to make it readable will save time and headaches in the long run.
