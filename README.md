@@ -194,3 +194,8 @@ In essence, keep it simple, make it clear, and test thoroughly — these princip
 
 Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. You can also use these tools to track your progress and adjust your plan as needed. 
  -- 213个词
+
+# 2024-01-09
+- Today's programming wisdom: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+In fewer than 200 words, this quote emphasizes that over-concern with optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potential bugs. Instead, focus on writing clear, correct code first, and optimize only when there's evidence that a part of your program is a genuine performance bottleneck. It's a reminder to strike a balance between efficiency and readability, and to prioritize problem-solving clarity and maintainability in your software development process.
